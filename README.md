@@ -4,8 +4,7 @@
 
 Esse projeto  foi desenvolvido com as seguintes tecnologias:
 * <a href="https://reactjs.org/">ReactJS</a>
-* <a href="https://firebase.google.com/">Firebase</a>
-* <a href="https://www.typescriptlang.org/">TypeScript</a>
+* <a href="https://styled-components.com/">Styled Components</a>
 
 ## 🚀 Como executar
 Clone o projeto e acesse a pasta do mesmo.
